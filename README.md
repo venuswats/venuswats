@@ -69,7 +69,7 @@
 
 <div align="center">
 
-  <a href="YOUR_TCC_REPOSITORY_URL">
+  <a href="https://github.com/venuswats/aircraft-engine-predictive-maintenance">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=venuswats&repo=aircraft-engine-predictive-maintenance&theme=tokyonight&hide_border=true"
       alt="Aircraft Engine Predictive Maintenance"
